@@ -1,4 +1,4 @@
-FROM docker:20.10
+FROM image-cache.azure.dsb.dk/docker/docker:20.10
 
 RUN apk add bash
 
